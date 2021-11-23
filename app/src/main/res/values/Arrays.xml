@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>Assembly</item>
+        <item>ASP.net</item>
+        <item>Axum</item>
+
+        <item>BBC BASIC</item>
+        <item>Boomerang</item>
+        <item>Basic</item>
+
+        <item>C</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>COBOL</item>
+        <item>Clojure</item>
+
+        <item>Delphi</item>
+        <item>dBase</item>
+        <item>Draco</item>
+
+        <item>Euforia</item>
+        <item>EGL</item>
+        <item>EXEC2</item>
+
+        <item>Fantom</item>
+        <item>F-Script</item>
+        <item>F#</item>
+
+        <item>Go</item>
+        <item>GDL</item>
+        <item>GAMS</item>
+
+        <item>HyperTalk</item>
+        <item>Haxe</item>
+        <item>HolyC</item>
+
+        <item>Io</item>
+        <item>Ionic</item>
+        <item>IDL</item>
+
+        <item>Json</item>
+        <item>JavaScript</item>
+        <item>Java</item>
+
+        <item>Kotlin</item>
+        <item>Kojo</item>
+        <item>Kodu</item>
+
+        <item>Lua</item>
+        <item>LogTalk</item>
+        <item>LC-3</item>
+
+        <item>Magma</item>
+        <item>MDL</item>
+        <item>MATLAB</item>
+
+        <item>NASM</item>
+        <item>Nial</item>
+        <item>NPL</item>
+
+        <item>Object-C</item>
+        <item>Object-J</item>
+        <item>Oriel</item>
+
+        <item>Python</item>
+        <item>PHP</item>
+        <item>PowerShell</item>
+
+        <item>QtScript</item>
+        <item>QPL</item>
+        <item>Q#</item>
+
+        <item>Rubi</item>
+        <item>RPG</item>
+        <item>Ratfor</item>
+
+        <item>Schema</item>
+        <item>SQL</item>
+        <item>SIMSCRIPT</item>
+
+        <item>TypeScript</item>
+        <item>Turing</item>
+        <item>TMG</item>
+
+        <item>UnrealScript</item>
+        <item>Unicon</item>
+        <item>Uniface</item>
+
+        <item>Visual J++</item>
+        <item>Visual DataFlex</item>
+        <item>Verilog</item>
+
+        <item>WebAssembly</item>
+        <item>Wyvern</item>
+        <item>Wolfram Language</item>
+
+        <item>XSharp</item>
+        <item>XPLO</item>
+        <item>X++</item>
+
+        <item>YQL</item>
+        <item>YUI</item>
+        <item>YAML</item>
+
+        <item>Z++</item>
+        <item>Zig</item>
+        <item>Zeno</item>
+
+    </string-array>
+</resources>
